@@ -1,0 +1,16 @@
+C:\Users\emirh\source\repos\hesap makinası\hesap makinası\bin\Debug\net8.0-windows\hesap makinası.exe
+C:\Users\emirh\source\repos\hesap makinası\hesap makinası\bin\Debug\net8.0-windows\hesap makinası.deps.json
+C:\Users\emirh\source\repos\hesap makinası\hesap makinası\bin\Debug\net8.0-windows\hesap makinası.runtimeconfig.json
+C:\Users\emirh\source\repos\hesap makinası\hesap makinası\bin\Debug\net8.0-windows\hesap makinası.dll
+C:\Users\emirh\source\repos\hesap makinası\hesap makinası\bin\Debug\net8.0-windows\hesap makinası.pdb
+C:\Users\emirh\source\repos\hesap makinası\hesap makinası\obj\Debug\net8.0-windows\hesap_makinası.hesapMakinesi.resources
+C:\Users\emirh\source\repos\hesap makinası\hesap makinası\obj\Debug\net8.0-windows\hesap makinası.csproj.GenerateResource.cache
+C:\Users\emirh\source\repos\hesap makinası\hesap makinası\obj\Debug\net8.0-windows\hesap makinası.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirh\source\repos\hesap makinası\hesap makinası\obj\Debug\net8.0-windows\hesap makinası.AssemblyInfoInputs.cache
+C:\Users\emirh\source\repos\hesap makinası\hesap makinası\obj\Debug\net8.0-windows\hesap makinası.AssemblyInfo.cs
+C:\Users\emirh\source\repos\hesap makinası\hesap makinası\obj\Debug\net8.0-windows\hesap makinası.csproj.CoreCompileInputs.cache
+C:\Users\emirh\source\repos\hesap makinası\hesap makinası\obj\Debug\net8.0-windows\hesap makinası.dll
+C:\Users\emirh\source\repos\hesap makinası\hesap makinası\obj\Debug\net8.0-windows\refint\hesap makinası.dll
+C:\Users\emirh\source\repos\hesap makinası\hesap makinası\obj\Debug\net8.0-windows\hesap makinası.pdb
+C:\Users\emirh\source\repos\hesap makinası\hesap makinası\obj\Debug\net8.0-windows\hesap makinası.genruntimeconfig.cache
+C:\Users\emirh\source\repos\hesap makinası\hesap makinası\obj\Debug\net8.0-windows\ref\hesap makinası.dll
